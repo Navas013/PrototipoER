@@ -1,0 +1,20 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayudas.chm
+Contents file=..\..\..\Ayudas\Ayudas.hhc
+Default Window=Ayudas
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+Ayudas="Ayudas","..\..\..\Ayudas\Ayudas.hhc",,"..\..\..\Ayudas\Ayuda-Mantenimiento-Cliente.html","..\..\..\Ayudas\Ayuda-Mantenimiento-de-Bodega.html","..\..\..\Ayudas\Ayuda-Mantenimiento-Producto.html","Ayuda producto","..\..\..\Ayudas\Ayuda-Mantenimiento-Proveedor.html","Ayuda proveedores",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+..\..\..\Ayudas\Ayuda-Mantenimiento-Cliente.html
+..\..\..\Ayudas\Ayuda-Mantenimiento-de-Bodega.html
+..\..\..\Ayudas\Ayuda-Mantenimiento-Producto.html
+..\..\..\Ayudas\Ayuda-Mantenimiento-Proveedor.html
+
+[INFOTYPES]
+

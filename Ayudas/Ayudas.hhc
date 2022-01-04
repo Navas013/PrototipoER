@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Ayudas-movimiento-inventario">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ayuda cliente">
+			<param name="Local" value="..\..\..\Ayudas\Ayuda-Mantenimiento-Cliente.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ayuda producto">
+			<param name="Local" value="..\..\..\Ayudas\Ayuda-Mantenimiento-Producto.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ayuda bodega">
+			<param name="Local" value="..\..\..\Ayudas\Ayuda-Mantenimiento-de-Bodega.html">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Ayuda proveedores">
+			<param name="Local" value="..\..\..\Ayudas\Ayuda-Mantenimiento-Proveedor.html">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

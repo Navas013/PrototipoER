@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaCliente.chm
+Contents file=AyudaCliente.hhc
+Default Window=AyudaCliente
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaCliente="AyudaCliente","AyudaCliente.hhc",,"Ayuda-Mantenimiento-Cliente.html","Ayuda-Mantenimiento-Cliente.html","Ayuda-Mantenimiento-Cliente.html","AyudaCliente","Ayuda-Mantenimiento-Cliente.html","AyudaCliente",0x23520,,0xc387e,,,,,,,,0
+
+
+[FILES]
+Ayuda-Mantenimiento-Cliente.html
+
+[INFOTYPES]
+
